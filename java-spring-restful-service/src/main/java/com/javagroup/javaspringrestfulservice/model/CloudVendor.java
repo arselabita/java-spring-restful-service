@@ -1,7 +1,7 @@
 package com.javagroup.javaspringrestfulservice.model;
 
 /**
- * These class represents a cloud vendor entity with attributes such as vendor ID, name, address, and a phone number.
+ * This class represents a cloud vendor entity with attributes such as vendor ID, name, address, and a phone number.
  * It provides us the constructors to create instances of CloudVendor with specified attributes,
  * along with getter and setter methods to access and modify these attributes.
  */
